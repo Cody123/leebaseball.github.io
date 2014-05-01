@@ -1,0 +1,143 @@
+<!DOCTYPE html5>
+
+<html>
+
+<body style="background-color:grey">
+
+<h1><font size="10" color="Blue">Lee County Baseball</font></h1>
+
+<p><font color="black"> This year the Bobcats are Regular Season:(8-10) District:(3-3) Region:(5-8)<br> The Bobcats varsity line up is:<br>
+<br>
+Bobcats Head Coach: Jason Jewell<br>
+Assistant Coach: Gus Wise<br>
+Assistant Coach: Joey Stamper<br>
+<head>
+<style>
+table,th,td
+{
+border:1px solid blue;
+}
+th,td
+{
+padding:4px;
+}
+th
+{
+text-align:center;
+}
+td
+{
+text-align:left;
+}
+</style>
+</head>
+
+<body>
+<table border="1" style="width:300px">
+<tr>
+  <th>Year</th>
+  <th>Firstname</th>
+  <th>Lastname</th>		
+  <th>Number</th>
+  <th>Position</th>
+</tr>
+<tr>
+  <td>Senior</td>
+  <td>Tristan</td>
+  <td>Fraley</td>		
+  <td>25</td>
+  <td>Catcher</td>
+</tr>
+<tr>
+  <td>Senior</td>
+  <td>Dylan</td>
+  <td>Riley</td>		
+  <td>20</td>
+  <td>Pitcher, First Base</td>
+</tr>
+<tr>
+  <td>Senior</td>
+  <td>Logan</td>
+  <td>Williams</td>		
+  <td>12</td>
+  <td>Third Base,Pitcher</td>
+</tr>
+<tr>
+  <td>Senior</td>
+  <td>Randy</td>
+  <td>Mays</td>		
+  <td>8</td>
+  <td>First Base</td>
+</tr> 
+<tr>
+  <td>Senior</td>
+  <td>Casey</td>
+  <td>Moore</td>		
+  <td>35</td>
+  <td>Pitcher</td>
+</tr>
+<tr>
+  <td>Senior</td>
+  <td>Preston</td>
+  <td>Combs</td>		
+  <td>13</td>
+  <td>Left Field</td>
+</tr>
+<tr>
+  <td>Junior</td>
+  <td>Logan</td>
+  <td>Tipton</td>		
+  <td>3</td>
+  <td>Shortstop</td>
+</tr>
+<tr>
+  <td>Junior</td>
+  <td>Cody</td>
+  <td>Jewell</td>		
+  <td>33</td>
+  <td>Center Field</td>
+</tr>
+<tr>
+  <td>Junior</td>
+  <td>Jordan</td>
+  <td>Peters</td>		
+  <td>32</td>
+  <td>Right Field, Left Field, Pitcher</td>
+</tr>
+<tr>
+  <td>Sophomore</td>
+  <td>Jacob</td>
+  <td>Bottom</td>		
+  <td>11</td>
+  <td>Second Base</td>
+</tr>
+<tr>
+  <td>Freshman</td>
+  <td>Matthew</td>
+  <td>Riley</td>		
+  <td>10</td>
+  <td>Right Field, Second Base</td>
+</tr>
+<tr>
+  <td>Junior</td>
+  <td>Zack</td>
+  <td>Estes</td>		
+  <td>24</td>
+  <td>Bench Warmer, Mascot, Dugout</td>
+</tr>
+</table>
+<p>Will make changes when needed</p>
+<a href="http://scoreboard.12dt.com/scoreboard/khsaa/kyba14/?id=43237"><font color="blue">
+Click Here For Schedule</a></font></p>
+
+<img src="http://www-content-v3.maxpreps.com.edgesuite.net/includes/images/sport_icons/Baseball.jpg" border="5">
+
+<img src="http://www.ega.edu/images/uploads/baseball_firstbase.jpg" border="5" align="right" height="355">
+
+<p><font size="1" color="red">For copyright:http://www-content-v3.maxpreps.com.edgesuite.net/includes/images/sport_icons/Baseball.jpg</font></p>
+
+<p><font size="1" color="red">For copyright:http://www.ega.edu/images/uploads/baseball_firstbase.jpg</font></p>
+
+</body>
+
+</html>
